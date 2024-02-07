@@ -1,0 +1,3 @@
+[submodule "magnum"]
+	path = magnum
+	url = https://github.com/openstack/magnum.git
